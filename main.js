@@ -105,7 +105,7 @@ console.log (lista.join(", "));
 
 //------------------------------------------------//
 
-//var nome = "Temístocles Akim";
+//var nome = "AAAAA";
 //var n1 = 18;
 //var n2 = 10;
 //var frase = "Tickz0r";
